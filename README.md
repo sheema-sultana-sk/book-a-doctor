@@ -116,5 +116,5 @@ npm start          # starts on http://localhost:3000
 
 _Add your GitHub repository link and deployed demo link here once available, so your mentor can review the project:_
 
-- **GitHub:** `<add link>`
-- **Live Demo:** `<add link>`
+- **GitHub:** `<https://github.com/sheema-sultana-sk/book-a-doctor>`
+- **Live Demo:** `<-https://book-a-doctor-six.vercel.app>`
